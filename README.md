@@ -6,7 +6,7 @@
     <img src="screenshots/lookup-animation.gif" alt="Lookup animation"/>
 </p>
 
-<img src="screenshots/dropdown-open.png" alt="Lookup with dropdown open" width="350" align="right"/>
+<img src="screenshots/dropdown-open.png" alt="Lookup with dropdown open" width="600" align="right"/>
 
 1. [About](#about)
 1. [Installation](#installation)
